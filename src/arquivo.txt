@@ -1,0 +1,23 @@
+E uma arma corpo a corpo?
+Sua arma usa polvora?
+Sua arma possui uma lamina?
+Sua arma queima os adversarios?
+Sua arma pode se movimentar?
+Sua arma acerta os inimigos a uma certa distancia?
+É uma arma utilizado por assassinos furtivos?
+Sua arma usa um objeto para recarregar?
+Sua arma atira pedras?
+E um Canhão
+E um Falconete
+E uma Maça
+E uma Estrela da Manha
+Sua arma possui um cabo longo?
+E uma Espada
+E uma Lanca
+E uma Adaga
+E um Arco
+E uma Besta
+E Oleo fervente
+E uma Catapulta
+
+
