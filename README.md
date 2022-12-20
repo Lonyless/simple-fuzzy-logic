@@ -1,2 +1,5 @@
-# Akinator_MedievalAge
-Game estilo Akinator implementado usando uma Arvore Binaria. Projeto de ED2
+Game Akinator-like implemented using a binary tree.
+
+--------------------------------------------------------------------------
+
+Game estilo Akinator implementado usando uma Arvore Binaria.
