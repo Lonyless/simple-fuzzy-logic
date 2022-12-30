@@ -1,4 +1,4 @@
-Game Akinator-like implemented using a binary tree.
+Game akinator-like implemented using a binary tree.
 
 --------------------------------------------------------------------------
 
