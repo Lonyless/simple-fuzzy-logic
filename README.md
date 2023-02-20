@@ -1,1 +1,1 @@
-Fuzzy logic akinator-like implemented using a binary tree.
+Fuzzy logic game akinator-like implemented using a binary tree.
