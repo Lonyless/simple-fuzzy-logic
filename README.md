@@ -1,5 +1,1 @@
-Game akinator-like implemented using a binary tree.
-
---------------------------------------------------------------------------
-
-Game estilo Akinator implementado usando uma Arvore Binaria.
+Fuzzy logic akinator-like implemented using a binary tree.
